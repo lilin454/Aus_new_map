@@ -1,0 +1,459 @@
+{
+  "hotels": [
+    {
+      "id": "swiss_belhotel_brisbane",
+      "name": "Swiss-Belhotel Brisbane",
+      "english_name": "Swiss-Belhotel Brisbane",
+      "address": "826 Main St, Woolloongabba QLD 4102, Australia",
+      "coordinates": {
+        "lat": -27.4843968,
+        "lng": 153.0361534
+      },
+      "dates": ["2025-07-26", "2025-07-27", "2025-07-28", "2025-07-29", "2025-07-30", "2025-07-31", "2025-08-01"],
+      "city": "Brisbane"
+    },
+    {
+      "id": "voco_gold_coast",
+      "name": "voco Gold Coast",
+      "english_name": "voco Gold Coast",
+      "address": "31 Hamilton Ave, Surfers Paradise QLD 4217, Australia",
+      "coordinates": {
+        "lat": -28.0059884,
+        "lng": 153.4286471
+      },
+      "dates": ["2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05"],
+      "city": "Gold Coast"
+    },
+    {
+      "id": "swiss_belhotel_international",
+      "name": "Swiss-Belhotel International",
+      "english_name": "Swiss-Belhotel International", 
+      "address": "826 Main St, Woolloongabba QLD 4102, Australia",
+      "coordinates": {
+        "lat": -27.4843968,
+        "lng": 153.0361534
+      },
+      "dates": ["2025-08-05", "2025-08-06", "2025-08-07"],
+      "city": "Brisbane"
+    },
+    {
+      "id": "voco_brisbane_city",
+      "name": "voco Brisbane City Centre",
+      "english_name": "voco Brisbane City Centre",
+      "address": "85-87 N Quay, Brisbane City QLD 4000, Australia",
+      "coordinates": {
+        "lat": -27.4697015,
+        "lng": 153.021209
+      },
+      "dates": ["2025-08-07", "2025-08-08", "2025-08-09"],
+      "city": "Brisbane"
+    }
+  ],
+  "brisbane_attractions": [
+    {
+      "id": "lone_pine_sanctuary",
+      "name": "龍柏動物園",
+      "english_name": "Lone Pine Koala Sanctuary",
+      "address": "708 Jesmond Rd, Fig Tree Pocket QLD 4069, Australia",
+      "coordinates": {
+        "lat": -27.5337818,
+        "lng": 152.968815
+      },
+      "visit_dates": ["2025-07-27"],
+      "type": "attraction",
+      "description": "世界最大的無尾熊保護區，可近距離接觸無尾熊和袋鼠"
+    },
+    {
+      "id": "south_bank",
+      "name": "南岸公園與文創假日市集",
+      "english_name": "South Bank Parklands & The Collective Markets",
+      "address": "South Bank, South Brisbane QLD 4101, Australia",
+      "coordinates": {
+        "lat": -27.475081,
+        "lng": 153.0211931
+      },
+      "visit_dates": ["2025-07-27"],
+      "type": "attraction",
+      "description": "城市綠洲，擁有人造沙灘、摩天輪和文創市集"
+    },
+    {
+      "id": "king_george_square",
+      "name": "喬治王廣場",
+      "english_name": "King George Square",
+      "address": "Brisbane City QLD 4000, Australia",
+      "coordinates": {
+        "lat": -27.4685063,
+        "lng": 153.0239259
+      },
+      "visit_dates": ["2025-07-27"],
+      "type": "attraction",
+      "description": "布里斯本市政心臟，可參加免費市政廳鐘樓導覽"
+    },
+    {
+      "id": "queen_street_mall",
+      "name": "皇后街購物中心",
+      "english_name": "Queen Street Mall",
+      "address": "Brisbane City QLD 4000, Australia",
+      "coordinates": {
+        "lat": -27.4696523,
+        "lng": 153.0252416
+      },
+      "visit_dates": ["2025-07-27"],
+      "type": "shopping",
+      "description": "超過500家商店的步行街"
+    },
+    {
+      "id": "tafe_queensland",
+      "name": "TAFE昆士蘭",
+      "english_name": "TAFE Queensland",
+      "address": "66 Ernest St, South Brisbane QLD 4101, Australia",
+      "coordinates": {
+        "lat": -27.4791458,
+        "lng": 153.0219405
+      },
+      "visit_dates": ["2025-07-28", "2025-07-29", "2025-07-30", "2025-07-31", "2025-08-01"],
+      "type": "education",
+      "description": "數位媒體培訓課程"
+    },
+    {
+      "id": "brisbane_makerspace",
+      "name": "布里斯本創客空間",
+      "english_name": "Brisbane Makerspace",
+      "address": "4/176 Bluestone Circuit, Seventeen Mile Rocks QLD 4073, Australia",
+      "coordinates": {
+        "lat": -27.551,
+        "lng": 152.959
+      },
+      "visit_dates": ["2025-07-28", "2025-07-29"],
+      "type": "education",
+      "description": "3D列印、雷射切割等工作坊"
+    },
+    {
+      "id": "the_edge",
+      "name": "昆士蘭州立圖書館創新中心",
+      "english_name": "The Edge, State Library of Queensland",
+      "address": "State Library of Queensland, Cultural Centre, South Brisbane QLD 4101, Australia",
+      "coordinates": {
+        "lat": -27.4716485,
+        "lng": 153.0187566
+      },
+      "visit_dates": ["2025-07-31"],
+      "type": "education",
+      "description": "創新與數位媒體開放實驗室"
+    },
+    {
+      "id": "university_of_queensland",
+      "name": "昆士蘭大學",
+      "english_name": "The University of Queensland",
+      "address": "St Lucia QLD 4072, Australia",
+      "coordinates": {
+        "lat": -27.4999074,
+        "lng": 153.0153135
+      },
+      "visit_dates": ["2025-08-05", "2025-08-07", "2025-08-08"],
+      "type": "education",
+      "description": "創新工作坊、STEM課程、VR研究展示"
+    },
+    {
+      "id": "riverlife",
+      "name": "Riverlife探險中心",
+      "english_name": "Riverlife Adventure Centre",
+      "address": "Naval Stores Kangaroo Point Cliffs Drive, Kangaroo Point QLD 4169, Australia",
+      "coordinates": {
+        "lat": -27.4744632,
+        "lng": 153.0344596
+      },
+      "visit_dates": ["2025-08-06"],
+      "type": "activity",
+      "description": "布里斯本河獨木舟冒險"
+    },
+    {
+      "id": "brisbane_powerhouse",
+      "name": "舊發電廠與農夫市集",
+      "english_name": "Brisbane Powerhouse & Jan Powers Farmers Markets",
+      "address": "119 Lamington St, New Farm QLD 4005, Australia",
+      "coordinates": {
+        "lat": -27.4690169,
+        "lng": 153.0543438
+      },
+      "visit_dates": ["2025-08-09"],
+      "type": "attraction",
+      "description": "文化藝術中心和農夫市集"
+    },
+    {
+      "id": "mount_coot_tha",
+      "name": "庫薩山植物園與瞭望台",
+      "english_name": "Mount Coot-tha Botanic Gardens",
+      "address": "Mount Coot-tha Rd, Toowong QLD 4066, Australia",
+      "coordinates": {
+        "lat": -27.4769603,
+        "lng": 152.9598246
+      },
+      "visit_dates": ["2025-08-09"],
+      "type": "attraction",
+      "description": "俯瞰布里斯本全景的最佳地點"
+    },
+    {
+      "id": "eat_street",
+      "name": "貨櫃創意夜市",
+      "english_name": "Eat Street Northshore",
+      "address": "221D MacArthur Ave, Hamilton QLD 4007, Australia",
+      "coordinates": {
+        "lat": -27.4438961,
+        "lng": 153.0797179
+      },
+      "visit_dates": ["2025-08-09"],
+      "type": "food",
+      "description": "由貨櫃改造的創意美食街"
+    }
+  ],
+  "gold_coast_attractions": [
+    {
+      "id": "hota",
+      "name": "藝術之家與農夫市集",
+      "english_name": "HOTA, Home of the Arts",
+      "address": "135 Bundall Rd, Surfers Paradise QLD 4217, Australia",
+      "coordinates": {
+        "lat": -28.0014535,
+        "lng": 153.4162592
+      },
+      "visit_dates": ["2025-08-03"],
+      "type": "attraction",
+      "description": "藝術文化中心和週末市集"
+    },
+    {
+      "id": "marina_mirage",
+      "name": "海市蜃樓與達菲電動船",
+      "english_name": "Marina Mirage & Duffy Boat",
+      "address": "74 Seaworld Dr, Main Beach QLD 4217, Australia",
+      "coordinates": {
+        "lat": -27.9685082,
+        "lng": 153.4260462
+      },
+      "visit_dates": ["2025-08-03"],
+      "type": "activity",
+      "description": "豪華購物中心和水上電動船體驗"
+    },
+    {
+      "id": "harbour_town",
+      "name": "海港城購物中心",
+      "english_name": "Harbour Town Premium Outlets",
+      "address": "147-189 Brisbane Rd, Biggera Waters QLD 4216, Australia",
+      "coordinates": {
+        "lat": -27.930886,
+        "lng": 153.3878742
+      },
+      "visit_dates": ["2025-08-03"],
+      "type": "shopping",
+      "description": "品牌折扣購物中心"
+    },
+    {
+      "id": "warner_bros_movie_world",
+      "name": "華納兄弟電影世界",
+      "english_name": "Warner Bros. Movie World",
+      "address": "Pacific Mwy, Oxenford QLD 4210, Australia",
+      "coordinates": {
+        "lat": -27.906957,
+        "lng": 153.3131103
+      },
+      "visit_dates": ["2025-08-04"],
+      "type": "theme_park",
+      "description": "電影主題樂園工作坊"
+    }
+  ],
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "date": "2025-07-26",
+      "city": "布里斯本",
+      "title": "抵達布里斯本",
+      "activities": [
+        "桃園機場出發 (09:10)",
+        "抵達布里斯本 (20:00)",
+        "入住Swiss-Belhotel Brisbane"
+      ],
+      "hotel": "swiss_belhotel_brisbane"
+    },
+    {
+      "day": 2,
+      "date": "2025-07-27",
+      "city": "布里斯本",
+      "title": "城市行銷與藝術文化探索",
+      "activities": [
+        "龍柏動物園",
+        "南岸公園與文創假日市集",
+        "Brisbane CBD - King George Square & Queen Street"
+      ],
+      "hotel": "swiss_belhotel_brisbane",
+      "locations": ["lone_pine_sanctuary", "south_bank", "king_george_square", "queen_street_mall"]
+    },
+    {
+      "day": 3,
+      "date": "2025-07-28",
+      "city": "布里斯本",
+      "title": "TAFE數位媒體培訓 Day 1",
+      "activities": [
+        "TAFE Queensland Digital Media Training Program",
+        "Brisbane Makerspace社交夜"
+      ],
+      "hotel": "swiss_belhotel_brisbane",
+      "locations": ["tafe_queensland", "brisbane_makerspace"]
+    },
+    {
+      "day": 4,
+      "date": "2025-07-29",
+      "city": "布里斯本",
+      "title": "TAFE數位媒體培訓 Day 2",
+      "activities": [
+        "Brisbane Makerspace實習參訪",
+        "3D列印工作坊",
+        "雷射切割工作坊",
+        "電子與編程講座"
+      ],
+      "hotel": "swiss_belhotel_brisbane",
+      "locations": ["brisbane_makerspace"]
+    },
+    {
+      "day": 5,
+      "date": "2025-07-30",
+      "city": "布里斯本",
+      "title": "TAFE數位媒體培訓 Day 3",
+      "activities": [
+        "影片製作課程"
+      ],
+      "hotel": "swiss_belhotel_brisbane",
+      "locations": ["tafe_queensland"]
+    },
+    {
+      "day": 6,
+      "date": "2025-07-31",
+      "city": "布里斯本",
+      "title": "TAFE數位媒體培訓 Day 4",
+      "activities": [
+        "編輯與後製課程",
+        "The Edge創新中心參訪"
+      ],
+      "hotel": "swiss_belhotel_brisbane",
+      "locations": ["tafe_queensland", "the_edge"]
+    },
+    {
+      "day": 7,
+      "date": "2025-08-01",
+      "city": "布里斯本→黃金海岸",
+      "title": "畢業典禮與前往黃金海岸",
+      "activities": [
+        "布里斯本城市公共藝術步道",
+        "TAFE畢業典禮",
+        "私人接送至黃金海岸"
+      ],
+      "hotel": "voco_gold_coast",
+      "locations": ["tafe_queensland"]
+    },
+    {
+      "day": 8,
+      "date": "2025-08-02",
+      "city": "黃金海岸",
+      "title": "綠色創意美學城市探索",
+      "activities": [
+        "自由探索黃金海岸"
+      ],
+      "hotel": "voco_gold_coast"
+    },
+    {
+      "day": 9,
+      "date": "2025-08-03",
+      "city": "黃金海岸",
+      "title": "黃金海岸城市探索",
+      "activities": [
+        "HOTA藝術之家與農夫市集",
+        "Marina Mirage海市蜃樓與達菲電動船",
+        "鵜鶘餵食與炸魚薯條",
+        "Harbour Town海港城購物中心"
+      ],
+      "hotel": "voco_gold_coast",
+      "locations": ["hota", "marina_mirage", "harbour_town"]
+    },
+    {
+      "day": 10,
+      "date": "2025-08-04",
+      "city": "黃金海岸",
+      "title": "華納兄弟電影世界",
+      "activities": [
+        "華納兄弟電影世界工作坊"
+      ],
+      "hotel": "voco_gold_coast",
+      "locations": ["warner_bros_movie_world"]
+    },
+    {
+      "day": 11,
+      "date": "2025-08-05",
+      "city": "黃金海岸→布里斯本",
+      "title": "昆士蘭大學創新工作坊",
+      "activities": [
+        "UQ Ventures創新工作坊",
+        "返回布里斯本"
+      ],
+      "hotel": "swiss_belhotel_international",
+      "locations": ["university_of_queensland"]
+    },
+    {
+      "day": 12,
+      "date": "2025-08-06",
+      "city": "布里斯本",
+      "title": "Riverlife體驗工作坊",
+      "activities": [
+        "Riverlife新創企業參訪",
+        "布里斯本河獨木舟冒險"
+      ],
+      "hotel": "swiss_belhotel_international",
+      "locations": ["riverlife"]
+    },
+    {
+      "day": 13,
+      "date": "2025-08-07",
+      "city": "布里斯本",
+      "title": "昆士蘭大學STEM工作坊",
+      "activities": [
+        "UQ EAIT STEM工作坊 (消防車工程)"
+      ],
+      "hotel": "voco_brisbane_city",
+      "locations": ["university_of_queensland"]
+    },
+    {
+      "day": 14,
+      "date": "2025-08-08",
+      "city": "布里斯本",
+      "title": "VR虛擬實境工作坊",
+      "activities": [
+        "UQ電機工程與電腦科學學院VR工作坊",
+        "UQ EAIT學院簡報"
+      ],
+      "hotel": "voco_brisbane_city",
+      "locations": ["university_of_queensland"]
+    },
+    {
+      "day": 15,
+      "date": "2025-08-09",
+      "city": "布里斯本",
+      "title": "城市探索與機場送機",
+      "activities": [
+        "舊發電廠與農夫市集",
+        "庫薩山植物園與瞭望台",
+        "貨櫃創意夜市",
+        "晚餐後送機"
+      ],
+      "hotel": "voco_brisbane_city",
+      "locations": ["brisbane_powerhouse", "mount_coot_tha", "eat_street"]
+    },
+    {
+      "day": 16,
+      "date": "2025-08-10",
+      "city": "台灣",
+      "title": "抵達台灣",
+      "activities": [
+        "清晨抵達桃園國際機場 (05:50)",
+        "行程結束"
+      ]
+    }
+  ]
+}
